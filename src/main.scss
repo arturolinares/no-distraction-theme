@@ -13,6 +13,13 @@
   -webkit-app-region: drag;
 }
 
+#editor-column,
+.note-editing-area,
+.gKsMQS {
+  max-width: 825px;
+  margin: 0 auto;
+}
+
 #editor-title-bar {
   display: none;
 }
